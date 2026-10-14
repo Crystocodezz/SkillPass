@@ -1,0 +1,34 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/how-it-works", "title": "How It Works" },
+    { "path": "/demo-login", "title": "Demo Login" },
+    { "path": "/worker/dashboard", "title": "Worker Dashboard" },
+    { "path": "/worker/profile", "title": "My Profile" },
+    { "path": "/worker/passport", "title": "Skill Passport" },
+    { "path": "/worker/verification", "title": "Verification" },
+    { "path": "/worker/opportunities", "title": "Job Opportunities" },
+    { "path": "/worker/consent", "title": "Data & Consent" },
+    { "path": "/worker/notifications", "title": "Notifications" },
+    { "path": "/worker/settings", "title": "Worker Settings" },
+    { "path": "/employer/dashboard", "title": "Employer Dashboard" },
+    { "path": "/employer/workers", "title": "Find Workers" },
+    { "path": "/employer/workers/:workerId", "title": "Worker Details" },
+    { "path": "/employer/jobs", "title": "Job Listings" },
+    { "path": "/employer/jobs/new", "title": "Create Job" },
+    { "path": "/employer/jobs/:jobId/edit", "title": "Edit Job" },
+    { "path": "/employer/access-requests", "title": "Access Requests" },
+    { "path": "/employer/notifications", "title": "Employer Notifications" },
+    { "path": "/employer/settings", "title": "Employer Settings" },
+    { "path": "/partner/dashboard", "title": "Partner Dashboard" },
+    { "path": "/partner/workers", "title": "Workers" },
+    {
+      "path": "/partner/verification-requests",
+      "title": "Verification Requests"
+    },
+    { "path": "/partner/employers", "title": "Employers" },
+    { "path": "/partner/jobs", "title": "Job Listings" },
+    { "path": "/partner/activity", "title": "Activity Logs" },
+    { "path": "/partner/settings", "title": "Partner Settings" }
+  ]
+}
